@@ -1,0 +1,84 @@
+/* CSS Global */
+.below-nav {
+  padding-top: 5rem;
+}
+
+.form-padding {
+  padding: 2rem;
+}
+
+.align-content-center{
+  text-align: center;
+}
+
+.btn-cancel-form {
+  background-color: red;
+  border-color: red;
+}
+
+.btn-cancel-form:hover {
+  background-color: rgb(228, 5, 5);
+  border-color: rgb(228, 5, 5);
+}
+
+/* CSS Navbar */
+.navbar-custom {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* CSS RiddlesTable */
+.row-custom{
+  background-color: #11E462;
+}
+
+.personal-custom{
+  background-color: #ffe96b;
+}
+
+.closed-custom{
+  background-color: #ff6b6b;
+  border-width: thick;
+}
+
+.open-new-custom{
+  background-color: #95ff6b;
+  border-width: thick;
+}
+
+.open-started-custom{
+  background-color: #4d6dfc;
+  border-width: thick;
+}
+
+/* Top3Table */ 
+.icon-trophy-custom {
+  color: #FFD700;
+}
+
+/* Legend */
+.icon-personal-custom {
+  color: #ffe96b;
+}
+
+.icon-closed-custom {
+  color: #ff6b6b;
+}
+
+.icon-open-new-custom {
+  color: #95ff6b;
+}
+
+.icon-open-started-custom {
+  color: #4d6dfc;
+}
+
+/* Add Button */
+.fixed-left-bottom {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 1030;
+  margin: 0rem 0rem 5rem 5rem;
+  border-radius: 100%;
+}
